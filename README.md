@@ -123,7 +123,7 @@ status:
   lastVersion: 2
 ```
 4. Save your edits.
-5. The next time you "Start a Build" the build will run in the free time-bound pool. 
+5. The next time you "Start Build" the build will run in the free time-bound pool. 
 
 
 
